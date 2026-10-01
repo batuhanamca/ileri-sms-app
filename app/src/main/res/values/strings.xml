@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İleri SMS</string>
+    <string name="offline_title">İnternet bağlantısı yok</string>
+    <string name="offline_message">Lütfen bağlantınızı kontrol edip tekrar deneyin.</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="press_back_again">Çıkmak için tekrar geri tuşuna basın</string>
+    <string name="download_started">İndirme başladı</string>
+    <string name="download_failed">İndirme başlatılamadı</string>
+    <string name="no_app_found">Bu işlem için uygun uygulama bulunamadı</string>
+    <string name="choose_file">Dosya seç</string>
+</resources>
